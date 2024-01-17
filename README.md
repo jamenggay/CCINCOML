@@ -6,8 +6,8 @@ Course Outline:
 
 | Topic | Description | 
 | :---: | :---: |       
-| Part 1 - Computer Systems | History, Types, Components and Networks |
-| Part 2 - Programming Languages | History and Types of Programming Languages|
+| Part 1 - Computer Systems | Brief History of Computer systems, Types of Computer Systems, Components of a Computer system and Computer Networks |
+| Part 2 - Programming Languages | Brief History and Types of Programming Languages|
 | Part 3 - Computer Arithmetic and Logic Unit | |
 | Part 4 - Instruction Set Architecture | |
 | Part 5 - MIPS Architecture and MIPS64 Instruction Set | |
