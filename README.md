@@ -7,7 +7,7 @@ Course Outline:
 | Topic | Description | 
 | :---: | :---: |       
 | Part 1 - Computer Systems | History, Types, Components and Networks |
-| Part 2 - CPU Performance Issues | Designing for Performance, Multicore, MICs and GPGPUs, Amdahl's and Little's Law, Basic measures of computer performance, Calculating the Mean, BenchMarks and SPEC|
+| Part 2 - Programming Languages | History and Types of Programming Languages|
 | Part 3 - Computer Arithmetic and Logic Unit | |
 | Part 4 - Instruction Set Architecture | |
 | Part 5 - MIPS Architecture and MIPS64 Instruction Set | |
